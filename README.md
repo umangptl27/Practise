@@ -1,4 +1,4 @@
 # Practise
 This is my first Git Repository
 <br>
-Author - Umang 
+Author - Umang Patel
